@@ -1,0 +1,15 @@
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\bin\Debug\RENTALS.exe.config
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\bin\Debug\RENTALS.exe
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\bin\Debug\RENTALS.pdb
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\bin\Debug\RENTALS.xml
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.vbproj.AssemblyReference.cache
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.Form1.resources
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.Resources.resources
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.vbproj.GenerateResource.cache
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.vbproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.exe
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.xml
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.pdb
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.admin_dashboard.resources
+C:\Users\felix\OneDrive\Desktop\VB net\RENTALS\obj\Debug\RENTALS.house_create.resources
